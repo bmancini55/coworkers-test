@@ -1,0 +1,10 @@
+{
+  "name": "coworkers-test",
+  "version": "0.1.0",
+  "author": "Brian <bmancini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.4.1",
+    "coworkers": "^0.4.1"
+  }
+}
